@@ -1,6 +1,6 @@
 /*********************************************************************
  * New York Institute of Technology  
- * Elis Cucka                      
+ * Martin Dove, Elis Cucka, Dibakar Banik,                      
  * Data Structures - CSCI 260 M05 
  * Spring 2019 Semester                 
  * Assignment 5_2: Linked Lists
